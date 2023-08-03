@@ -1,0 +1,6 @@
+.leadTo-highLightBlock {
+  position: fixed;
+  transition: all 1s;
+  outline: 999999px solid black;
+  opacity: 0.3;
+}
